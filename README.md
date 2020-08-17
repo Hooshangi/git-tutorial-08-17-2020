@@ -9,13 +9,16 @@
 	-git config --global core.editor "nano -w"
 		-this will make nano your default editor for git
 
+-`git commit -m "MESSAGE"`: one line commit message in 1-step
+
+
 -`git log`: shows you history 
 	-`git log --oneline `: shows you your 1-line versio of history
 -'HEAD': tells you where you are looking at
 
--`git diff`: allows you to look at the changes you have made.
+-`git diff`: shows current state with last known state differences
 	-New lines are green and deleted lines are red.
-
--`git diff --staged`: if you are in the staging area and wants to see the changes.
+	-`git diff --staged`: if you are in the staging area and wants to see the changes with the last commit.
+	-can use `git log --oneline ` to specify different versions in histroy
 
 -`git commit -m "MESSAGE"`: this is to do the commit in a short cut

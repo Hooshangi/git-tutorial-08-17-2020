@@ -1,4 +1,6 @@
-#This is a readme for a git tutorial- VT Lesson
+
+# This is a readme for a git tutorial- VT Lesson- 2020-08-17
+
 
 ## local
 -`git init`: create git repository in current folder
@@ -33,3 +35,4 @@
 -git remote -v
 
 -You can make changes to different parts of the file and it will combine automatically.
+-in a merge conflict, look for ">>>" '===' and fix those lines

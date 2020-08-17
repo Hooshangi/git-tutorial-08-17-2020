@@ -1,4 +1,4 @@
-#This is a readme for a git tutorial
+#This is a readme for a git tutorial- VT Lesson
 
 ## local
 -`git init`: create git repository in current folder

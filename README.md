@@ -11,4 +11,11 @@
 
 -`git log`: shows you history 
 	-`git log --oneline `: shows you your 1-line versio of history
--'HEAD': tells you where you are looking at 
+-'HEAD': tells you where you are looking at
+
+-`git diff`: allows you to look at the changes you have made.
+	-New lines are green and deleted lines are red.
+
+-`git diff --staged`: if you are in the staging area and wants to see the changes.
+
+-`git commit -m "MESSAGE"`: this is to do the commit in a short cut

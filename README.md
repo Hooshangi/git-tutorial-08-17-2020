@@ -22,3 +22,10 @@
 	-can use `git log --oneline ` to specify different versions in histroy
 
 -`git commit -m "MESSAGE"`: this is to do the commit in a short cut
+
+
+-`git remote add origin <URL>` : adds <URL> with the name origin
+-`git push origin master`: pushed the master branch to the origin remote
+-`git pull origin master`: pulls the master branch from origin from 
+
+-git remote -v

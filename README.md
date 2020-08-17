@@ -1,5 +1,4 @@
-#This is a readme for a git tutorial
-
+# 2020-08-17 
 ## local
 -`git init`: create git repository in current folder
 -`git status`: tells you what is going on 

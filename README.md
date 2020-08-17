@@ -31,3 +31,5 @@
 -`git pull origin master`: pulls the master branch from origin from 
 
 -git remote -v
+
+-You can make changes to different parts of the file and it will combine automatically.

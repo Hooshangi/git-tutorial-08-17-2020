@@ -1,5 +1,6 @@
 #This is a readme for a git tutorial
 
+## local
 -`git init`: create git repository in current folder
 -`git status`: tells you what is going on 
 
@@ -23,6 +24,7 @@
 
 -`git commit -m "MESSAGE"`: this is to do the commit in a short cut
 
+## remotes
 
 -`git remote add origin <URL>` : adds <URL> with the name origin
 -`git push origin master`: pushed the master branch to the origin remote

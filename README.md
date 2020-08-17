@@ -3,7 +3,7 @@
 
 
 ## local
--`git init`: create git repository in current folder
+- `git init`: create git repository in current folder
 -`git status`: tells you what is going on 
 
 -`git add <FILE>`: places <FILE> into the staging area
